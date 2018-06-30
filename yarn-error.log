@@ -56,7 +56,7 @@ npm manifest:
       "zuul": "^2.1.1"
     },
     "optionalDependencies": {
-      "@flockcore/web-rtc": "flockcore/web-rtc#master"
+      "@flockcore/wrtc": "flockcore/wrtc#master"
     },
     "publishConfig": {
       "access": "public"
